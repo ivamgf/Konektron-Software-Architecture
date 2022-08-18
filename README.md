@@ -1,6 +1,6 @@
 # Konektron-Software-Architecture
 
-![Konektron](https://raw.githubusercontent.com/ivamgf/Konektron-Software-Architecture/main/Logo.png)[ width="30%"]
+![Konektron](https://raw.githubusercontent.com/ivamgf/Konektron-Software-Architecture/main/Logo.png)
 
 
 
