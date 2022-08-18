@@ -1,4 +1,7 @@
 # Konektron-Software-Architecture
+
+![alt text](https://raw.githubusercontent.com/ivamgf/Konektron-Software-Architecture/main/path/to/Logo.png)
+
 Konektron Software Architecture project for Draw.io Version  1.0.0.
 
 System architecture design package for Draw.io.
