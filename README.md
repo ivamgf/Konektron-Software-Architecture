@@ -1,6 +1,6 @@
 # Konektron-Software-Architecture
 
-![alt text](https://raw.githubusercontent.com/ivamgf/Konektron-Software-Architecture/main/path/to/Logo.png)
+![Konektron](https://raw.githubusercontent.com/ivamgf/Konektron-Software-Architecture/main/Konektron-Software-Architecture/to/Logo.png)
 
 Konektron Software Architecture project for Draw.io Version  1.0.0.
 
